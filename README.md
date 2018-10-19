@@ -1,9 +1,30 @@
-# RenderJSONtemplate
-Render JSON template,渲染本地的JSON文件。
-本Demo实现的主要功能
-* 加载本地的JSON文件
-* 渲染成HTML模板
-* 获取用户输入的值，供其他的组件使用或者调用
+# renderjsontemplate
 
-##### 待实现功能
-* 能够从使用其他组件按规则格式生成的JSON文件，动态渲染模板。
+> A Vue.js project
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+
+# run unit tests
+npm run unit
+
+# run e2e tests
+npm run e2e
+
+# run all tests
+npm test
+```
+
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
